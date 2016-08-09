@@ -1,0 +1,31 @@
+.enuoma-color
+{
+background-color:#fca727 !important; 
+color:#fff !important;
+border:none;	
+}
+.enuoma-f60
+{
+background-color:#f60 !important; 
+color:#fff !important;	
+}
+input err {
+    border: solid 1px #F30;
+}
+.pd:active { 
+    background-color: #f5f8fe;
+}
+a:active {
+    background-color: #f5f8fe;
+}
+
+.title.title-center.header-item
+{
+	right:0px !important;
+}
+
+.enuoma-input
+{
+	width:100% !important;
+	border:none !important;
+}
