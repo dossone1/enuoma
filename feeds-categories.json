@@ -1,0 +1,64 @@
+[
+	{
+		"id":"1",
+		"title":"Food & Agriculture",
+		"image":"img/categories/food.jpg"
+		
+	},
+	{
+		"id":"2",
+		"title":"Apparel, Textile & Fashion",
+		"image":"img/categories/fashion.jpg"
+	},
+	{
+		"id":"12",
+		"title":"Auto & Transport",
+		"image":"img/categories/cars.jpg"
+	},
+	{
+		"id":"3",
+		"title":"Shoes, Bags & Accessories",
+		"image":"img/categories/bags.jpg"
+	},
+	{
+		"id":"5",
+		"title":"Electrical Equipment & Telecom",
+		"image":"img/categories/electrical.jpg"
+	},
+	{
+		"id":"4",
+		"title":"Consumer Electronics",
+		"image":"img/categories/electronics.jpg"
+	},
+	{
+		"id":"6",
+		"title":"Sports & Toys",
+		"image":"img/categories/sports.jpg"
+	},
+	{
+		"id":"7",
+		"title":"Health & Beauty Products",
+		"image":"img/categories/health.jpg"
+	},
+	{
+		"id":"8",
+		"title":"Home, Lights & Construction",
+		"image":"img/categories/construction.jpg"
+	},
+	{
+		"id":"9",
+		"title":"Machinery & Industrial Parts",
+		"image":"img/categories/industrial-parts.jpg"
+	},
+	{
+		"id":"10",
+		"title":"Metallurgy, Chemicals & Plastics",
+		"image":"img/categories/plastics.jpg"
+	},
+	{
+		"id":"11",
+		"title":"Packaging, Advertising & Office",
+		"image":"img/categories/package.jpg"
+	}
+	
+]
